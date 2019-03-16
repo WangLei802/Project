@@ -1,4 +1,4 @@
-# D3.js + Canvas 绘制组织结构图
+<!-- # D3.js + Canvas 绘制组织结构图
 
 ### 使用 D3.js 默认的 svg 渲染
 D3默认的树状图画图使用的是svg, 比如这个来自D3作者的例子:
@@ -174,4 +174,4 @@ npm run dev
 
 # build for production with minification (build to ./docs folder, which can be auto servered by github page 🤓)
 npm run build
-```
+``` -->

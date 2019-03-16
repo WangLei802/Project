@@ -1,17 +1,4 @@
-# organization-chart
-
-
-## demo page
-
-https://ssthouse.github.io/organization-chart/#/
-
-
-![demo gif](https://raw.githubusercontent.com/ssthouse/organization-chart/master/screenshots/org-chart.gif)
-
-
-## Tech
-- use D3.js with Canvas to draw organizationChart more efficiently.
-- Use `unique-color` manner to identify mouse click event in Canvas (you can refer to https://medium.com/@lverspohl/how-to-turn-d3-and-canvas-into-good-friends-b7a240a32915 to see detail)
+# d3-Organization chart
 
 
 ## To draw your own nested data
